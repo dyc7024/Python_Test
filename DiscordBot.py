@@ -23,6 +23,6 @@ async def made(ctx):
     embed.set_thumbnail(url="https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.dcinside.app/2f7464ce-b4ab-11ea-9c74-6fb55c2c2087/128x128")
     await ctx.send(embed=embed)
 
-# title="디스코드 마이너 갤러리", url="https://gall.dcinside.com/mgallery/board/lists?id=discord",
+ 
 
 bot.run("YourBotToken")
