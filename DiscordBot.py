@@ -25,4 +25,4 @@ async def made(ctx):
 
 # title="디스코드 마이너 갤러리", url="https://gall.dcinside.com/mgallery/board/lists?id=discord",
 
-bot.run("ODEzMDQzMDMzMzI2MjIzMzYy.YDJjVA.fAkDC41gWQVk2l2FvGl6R-2Y1PE")
+bot.run("YourBotToken")
